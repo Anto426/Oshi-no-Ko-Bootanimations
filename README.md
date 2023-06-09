@@ -4,4 +4,4 @@ An Oshi no Ko themed startup animation for Android
 Preview
 
 
-![Alt Text](./output.gif)
+![Alt Text](./preview.gif)
