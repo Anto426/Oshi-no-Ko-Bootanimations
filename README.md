@@ -8,7 +8,7 @@ Preview
 
 
 
-## Istruzioni
+## Instructions
 
 1. Connect adb as root:
 
