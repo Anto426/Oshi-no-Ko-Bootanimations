@@ -5,3 +5,25 @@ Preview
 
 
 ![Alt Text](./preview.gif)
+
+
+
+## Istruzioni
+
+1. Connect adb as root:
+
+```shell
+adb root
+```
+
+2. Remount partitions:
+
+```shell
+adb remount
+```
+
+3. Copy the bootanimation:
+
+```shell
+adb push "dir bootanimation" /product/media/
+```
