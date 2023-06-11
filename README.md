@@ -1,14 +1,14 @@
 # 💫 Oshi-no-Ko-Bootanimation
 An Oshi no Ko themed startup animation for Android
 
-Preview
+## 📺 Preview
 
 
 ![Alt Text](./preview.gif)
 
 
 
-## Instructions
+## ✍🏻 Instructions
 
 1. Connect adb as root:
 
