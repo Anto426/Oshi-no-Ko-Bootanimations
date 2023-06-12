@@ -9,7 +9,7 @@ An Oshi no Ko themed startup animation for Android
 
 # 💎 Rubby:
 
-![Alt Text](./preview1.gif)
+![Alt Text](./previewr1.gif)
 
 
 ## 🔗 Download
