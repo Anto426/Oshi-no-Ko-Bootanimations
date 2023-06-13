@@ -30,6 +30,7 @@ An Oshi no Ko themed startup animation for Android
 
 # ⭐ Akane:
 
+coming soon ....
 ![Alt Text](./preview4.gif)
 
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.4/bootanimation.zip)
