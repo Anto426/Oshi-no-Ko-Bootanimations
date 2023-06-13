@@ -1,8 +1,6 @@
 # 💫 Oshi-no-Ko-Bootanimation
 An Oshi no Ko themed startup animation for Android
 
-## 📺 Preview
-
 # 🌟 AI:
 
 ![Alt Text](./preview.gif)
