@@ -9,7 +9,7 @@ An Oshi no Ko themed startup animation for Android
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/bootanimation.zip)
 
 
-# 💎 Rubby:
+# 💎 Ruby :
 
 ![Alt Text](./preview1.gif)
 
