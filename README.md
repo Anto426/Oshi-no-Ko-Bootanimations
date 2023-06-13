@@ -16,6 +16,13 @@ An Oshi no Ko themed startup animation for Android
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.1/bootanimation.zip)
 
 
+# 🌊 Acqua:
+
+![Alt Text](./preview2.gif)
+
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.1/bootanimation.zip)
+
+
 ## ✍🏻 Instructions
 
 1. Connect adb as root:
