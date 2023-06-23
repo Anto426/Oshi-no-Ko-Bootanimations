@@ -38,7 +38,7 @@ An Oshi no Ko themed startup animation for Android
 
 ![Alt Text](./preview5.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.5/❤️Oshi_no_ko_bootanimations.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimations/releases/download/1.0.5/Oshi_no_ko_bootanimation.zip)
 
 ## ✍🏻 Manual Instructions
 
