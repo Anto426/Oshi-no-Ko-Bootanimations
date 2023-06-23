@@ -4,7 +4,7 @@
 - Added five bootanimation options based on the characters:
 # 🌟 AI:
 
-![Alt Text](./preview.gif)
+![Alt Text]([./preview.gif](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview.gif))
 
 
 # 💎 Ruby :
