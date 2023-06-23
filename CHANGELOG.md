@@ -4,25 +4,25 @@
 - Added five bootanimation options based on the characters:
 # 🌟 AI:
 
-![Alt Text]([./preview.gif](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview.gif))
+![Alt Text](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview.gif)
 
 
 # 💎 Ruby :
 
-![Alt Text](./preview1.gif)
+![Alt Text](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview1.gif)
 
 
 # 🌊 Aqua:
 
-![Alt Text](./preview2.gif)
+![Alt Text](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview2.gif)
 
 # 🔴 Kana:
 
-![Alt Text](./preview3.gif)
+![Alt Text](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview3.gif)
 
 # ⭐ Akane:
 
-![Alt Text](./preview4.gif)
+![Alt Text](https://raw.githubusercontent.com/Anto426/Oshi-no-Ko-Bootanimations/Main/preview4.gif)
 
 
 Enjoy!
