@@ -1,22 +1,8 @@
-# v1.0.0
+## ❤️Oshi no ko bootanimation v1.0.1
 
-## ❤️Oshi no ko bootanimation
+- Initial release
+- Added five bootanimation options based on the characters 🌟 AI, 💎 Ruby, 🌊 Aqua, 🔴 Kana and ⭐ Akane
 
-An Oshi no Ko themed startup animation for Android
-
-## On :
-
-🌟 AI
-
-💎 Ruby
-
-🌊 Aqua
-
-🔴 Kana
-
-⭐ Akane
 
 
 Enjoy!
-
----
