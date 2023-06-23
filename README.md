@@ -40,7 +40,7 @@ An Oshi no Ko themed startup animation for Android
 
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.5/bootanimation.zip)
 
-## ✍🏻 Instructions
+## ✍🏻 Manual Instructions
 
 1. Connect adb as root:
 
