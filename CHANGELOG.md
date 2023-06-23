@@ -2,12 +2,27 @@
 
 - Initial release
 - Added five bootanimation options based on the characters:
-# 🌟 AI 
-# 💎 Ruby 
-# 🌊 Aqua 
-# 🔴 Kana 
-# ⭐ Akane
+# 🌟 AI:
 
+![Alt Text](./preview.gif)
+
+
+# 💎 Ruby :
+
+![Alt Text](./preview1.gif)
+
+
+# 🌊 Aqua:
+
+![Alt Text](./preview2.gif)
+
+# 🔴 Kana:
+
+![Alt Text](./preview3.gif)
+
+# ⭐ Akane:
+
+![Alt Text](./preview4.gif)
 
 
 Enjoy!
