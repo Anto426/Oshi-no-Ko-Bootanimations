@@ -4,12 +4,18 @@
 
 An Oshi no Ko themed startup animation for Android
 
-** On :
+## On :
+
 🌟 AI
+
 💎 Ruby
+
 🌊 Aqua
+
 🔴 Kana
+
 ⭐ Akane
+
 
 Enjoy!
 
