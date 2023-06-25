@@ -1,5 +1,5 @@
 ## ❤️Oshi no ko bootanimation v1.0.3
 
-- Initial release
+- Update link
   
 Enjoy!
