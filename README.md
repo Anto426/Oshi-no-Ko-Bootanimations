@@ -13,32 +13,32 @@ An Oshi no Ko themed startup animation for Android
 
 ![Alt Text](./preview1.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.1/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/bootanimation.zip)
 
 
 # 🌊 Aqua:
 
 ![Alt Text](./preview2.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.2/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/bootanimation.zip)
 
 # 🔴 Kana:
 
 ![Alt Text](./preview3.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.3/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/bootanimation.zip)
 
 # ⭐ Akane:
 
 ![Alt Text](./preview4.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.4/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.4.0/bootanimation.zip)
 
 ## 💻Magisk Module
 
 ![Alt Text](./preview5.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimations/releases/download/1.0.5/Oshi_no_ko_bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimations/releases/download/3.0.0/Oshi_no_ko_bootanimation.zip)
 
 ## ✍🏻 Manual Instructions
 
