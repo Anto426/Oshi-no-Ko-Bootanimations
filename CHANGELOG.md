@@ -1,4 +1,4 @@
-## ❤️Oshi no ko bootanimation v1.0.3
+## ❤️Oshi no ko bootanimation v1.0.4
 
 - Update link
   
