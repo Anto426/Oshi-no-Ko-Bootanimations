@@ -6,33 +6,33 @@ An Oshi no Ko themed startup animation for Android
 
 ![Alt Text](./preview.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/AI0.zip)
 
 
 # 💎 Ruby :
 
 ![Alt Text](./preview1.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/Ruby0.zip)
 
 
 # 🌊 Aqua:
 
 ![Alt Text](./preview2.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/Aqua0.zip)
 
 # 🔴 Kana:
 
 ![Alt Text](./preview3.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
 
 # ⭐ Akane:
 
 ![Alt Text](./preview4.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.4.0/bootanimation.zip)
+🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.4.0/Akane0.zip)
 
 ## 💻Magisk Module
 
