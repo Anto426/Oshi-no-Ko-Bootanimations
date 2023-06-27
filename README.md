@@ -36,7 +36,8 @@ An Oshi no Ko themed startup animation for Android
 
 ## 💻Magisk Module
 
-![Alt Text](./preview5.gif)
+# Changelog
+[//]: # (include_relative ./CHANGELOG.md)
 
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimations/releases/download/3.0.0/Oshi_no_ko_Bootanimations.zip)
 
