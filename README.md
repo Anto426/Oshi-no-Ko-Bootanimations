@@ -4,43 +4,31 @@
 An Oshi no Ko themed startup animation for Android
 
 <span style="color:red">(Note: the resolution of the gif is not the real one.)</span>
-# 🌟 AI:
+
 
 ![Alt Text](./preview.gif)
-
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/AI0.zip)
 
 
 # 💎 Ruby :
 
 ![Alt Text](./preview1.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/Ruby0.zip)
-
 
 # 🌊 Aqua:
 
 ![Alt Text](./preview2.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/Aqua0.zip)
-
 # 🔴 Kana:
 
 ![Alt Text](./preview3.gif)
-
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
 
 # ⭐ Akane:
 
 ![Alt Text](./preview4.gif)
 
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.4.0/Akane0.zip)
-
 # 👿 MemCho:
 
 ![Alt Text](./preview5.gif)
-
-🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
 
 
 ## 💻Magisk Module
@@ -77,19 +65,33 @@ Enjoy!
 
 ## ✍🏻 Manual Instructions
 
-1. Connect adb as root:
+1. Download your favorite boot
+  1. 🌟[AI](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/AI0.zip)
+  2. 💎[Ruby](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/Ruby0.zip)
+  3. 🌊[Aqua](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/Aqua0.zip)
+  4. 🔴[Kana](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
+  5. ⭐[Akane](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
+  6. 👿[MemCho](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
+
+2. Reneme file to bootanimations.zip 
 
 ```shell
 adb root
 ```
 
-2. Remount partitions:
+3. Connect adb as root:
+
+```shell
+adb root
+```
+
+4. Remount partitions:
 
 ```shell
 adb remount
 ```
 
-3. Copy the bootanimation:
+5. Copy the bootanimation:
 
 ```shell
 adb push "dir bootanimation" /product/media/
