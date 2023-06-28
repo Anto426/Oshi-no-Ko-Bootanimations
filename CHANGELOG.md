@@ -1,3 +1,7 @@
+## ❤️Oshi no ko bootanimation v1.0.5
+
+- add 🔵MemCho bootanimation
+
 ## ❤️Oshi no ko bootanimation v1.0.4
 
 - updated link generation
