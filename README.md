@@ -66,14 +66,20 @@ Enjoy!
 ## ✍🏻 Manual Instructions
 
 1. Download your favorite boot
-  1. 🌟[AI](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/AI0.zip)
-  2. 💎[Ruby](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/Ruby0.zip)
-  3. 🌊[Aqua](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/Aqua0.zip)
-  4. 🔴[Kana](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
-  5. ⭐[Akane](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
-  6. 👿[MemCho](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
+   
+      🌟[AI](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.0.0/AI0.zip)
+   
+      💎[Ruby](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.1.0/Ruby0.zip)
+   
+      🌊[Aqua](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.2.0/Aqua0.zip)
+   
+      🔴[Kana](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
+   
+      ⭐[Akane](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
+   
+      👿[MemCho](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
 
-2. Reneme file to bootanimations.zip 
+3. Reneme file to bootanimations.zip 
 
 ```shell
 adb root
