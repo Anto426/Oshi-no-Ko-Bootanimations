@@ -77,7 +77,7 @@ Enjoy!
    
       ⭐[Akane](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.3.0/Kana0.zip)
    
-      👿[MemCho](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
+      💛[MemCho](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.5.0/MemCho0.zip)
 
 3. Reneme file to bootanimations.zip 
 
