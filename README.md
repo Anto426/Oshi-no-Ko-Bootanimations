@@ -36,7 +36,7 @@ An Oshi no Ko themed startup animation for Android
 
 🔗[Download](https://github.com/Anto426/Oshi-no-Ko-Bootanimation/releases/download/1.4.0/Akane0.zip)
 
-# 🔵 MemCho:
+# 👿 MemCho:
 
 ![Alt Text](./preview5.gif)
 
