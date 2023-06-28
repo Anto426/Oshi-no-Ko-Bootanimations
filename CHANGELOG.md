@@ -1,6 +1,6 @@
 ## ❤️Oshi no ko bootanimation v1.0.5
 
-- add 👿MemCho bootanimation
+- add 💛MemCho bootanimation
 
 ## ❤️Oshi no ko bootanimation v1.0.4
 
