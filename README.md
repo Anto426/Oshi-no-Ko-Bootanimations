@@ -81,9 +81,6 @@ Enjoy!
 
 3. Reneme file to bootanimations.zip 
 
-```shell
-adb root
-```
 
 3. Connect adb as root:
 
