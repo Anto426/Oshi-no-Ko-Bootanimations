@@ -1,3 +1,7 @@
+## ❤️Oshi no ko bootanimation v1.0.6
+
+- add system for backup the bootanimation
+  
 ## ❤️Oshi no ko bootanimation v1.0.5
 
 - add 💛MemCho bootanimation
