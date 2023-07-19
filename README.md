@@ -35,7 +35,7 @@ An Oshi no Ko themed startup animation for Android
 
 ```
 Changelog
-❤️Oshi no ko bootanimation v1.0.5
+❤️Oshi no ko bootanimation v1.0.6
 
 - add system for backup the bootanimation
 
