@@ -1,3 +1,5 @@
+![Alt Text](./logo.png)
+
 # ❤️ Oshi-no-Ko-Bootanimations
 ![Alt Text](./copertina.png)
 
