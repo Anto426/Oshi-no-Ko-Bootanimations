@@ -1,4 +1,4 @@
-![Alt Text](./logo.png)
+
 
 # ❤️ Oshi-no-Ko-Bootanimations
 ![Alt Text](./copertina.png)
@@ -104,3 +104,5 @@ adb remount
 ```shell
 adb push "dir bootanimation" /product/media/
 ```
+
+![Alt Text](./logo.png)
