@@ -17,6 +17,12 @@ on_install() {
   ui_print "- Extracting module files"
   unzip -o "$ZIPFILE" 'media/*' -d $MODPATH >&2
 
+  ui_print "- Downloading and installing dependency"
+  mkdir -p "$MODPATH/magic_overlayfs"
+  latest_url=$(curl -s "https://api.github.com/repos/HuskyDG/magic_overlayfs/releases/latest" | grep "browser_download_url" | cut -d '"' -f 4)
+  wget -O "$MODPATH/magic_overlayfs/magic_overlayfs.zip" "$latest_url"
+  magisk --install-module "$MODPATH/magic_overlayfs/magic_overlayfs.zip"
+
   ui_print "- Remounting /product Partition"
   mount -o remount,rw /product
 
