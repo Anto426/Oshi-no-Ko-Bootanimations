@@ -1,7 +1,7 @@
 
 
 # ❤️ Oshi-no-Ko-Bootanimations
-<img src="./copertina.png" alt="Alt Text" width="300" height="200">
+<img src="./copertina.png">
 
 An Oshi no Ko themed startup animation for Android
 
